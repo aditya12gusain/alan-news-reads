@@ -1,3 +1,8 @@
+# Alan-news-reads
+
+This is a news reading web app made with **ALAN AI**
+You can search for latest news on bacis of topics
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
